@@ -19,3 +19,13 @@ identifiers:
     description: data as cmif
 url: 'https://github.com/rettinghaus/TelemannLetters'
 license: CC-BY-4.0
+references: 
+  - authors:
+    - family-names: Grosse
+      given-names: Hans
+    - family-names: Jung
+      given-names: Hans Rudolf
+    title: Briefwechsel. Sämtliche erreichbare Briefe von und an Telemann
+    type: print
+    place: Leipzig
+    year: 1972
