@@ -1,7 +1,7 @@
-key,sender,senderID,addressee,addresseeID,senderPlace,senderPlaceID,addresseePlace,addresseePlaceID,date,page
+key,sender,senderID,addressee,addresseeID,senderPlace,senderPlaceID,addresseePlace,addresseePlaceID,senderDate,page
 1,Georg Philipp Telemann,11862119X,Rat der Stadt Leipzig,2157116-8,Leipzig,https://www.geonames.org/2879139,Leipzig,https://www.geonames.org/2879139,1704-08-08,22
 2,Georg Philipp Telemann,11862119X,Rat der Stadt Frankfurt (Main),1201422884,,,Frankfurt am Main,https://www.geonames.org/2925533,1712-02-09,23
-3,Georg Philipp Telemann,11862119X,Rat der Stadt Frankfurt (Main),1201422884,,,Frankfurt am Main,https://www.geonames.org/2925533,?,24
+3,Georg Philipp Telemann,11862119X,Rat der Stadt Frankfurt (Main),1201422884,,,Frankfurt am Main,https://www.geonames.org/2925533,,24
 4,Georg Philipp Telemann,11862119X,Rat der Stadt Frankfurt (Main),1201422884,Frankfurt am Main,https://www.geonames.org/2925533,Frankfurt am Main,https://www.geonames.org/2925533,1717-10-05,26
 5,Georg Philipp Telemann,11862119X,Rat der Stadt Frankfurt (Main),1201422884,Frankfurt am Main,https://www.geonames.org/2925533,Frankfurt am Main,https://www.geonames.org/2925533,1721-07-21,27
 6,Georg Philipp Telemann,11862119X,Rat der Stadt Hamburg,16032936-X,Hamburg,https://www.geonames.org/2911298,Hamburg,https://www.geonames.org/2911298,1722-02-03,28
@@ -47,7 +47,7 @@ key,sender,senderID,addressee,addresseeID,senderPlace,senderPlaceID,addresseePla
 41,Georg Philipp Telemann,11862119X,Hof zu Eisenach,1270190652,Hamburg,https://www.geonames.org/2911298,Eisenach,https://www.geonames.org/2931574,1730-05-18,101
 42,Andreas Telemann,107037718X,Hof zu Eisenach,1270190652,Hamburg,https://www.geonames.org/2911298,Eisenach,https://www.geonames.org/2931574,1730-05-27,102
 43,Georg Philipp Telemann,11862119X,Hof zu Eisenach,1270190652,Hamburg,https://www.geonames.org/2911298,Eisenach,https://www.geonames.org/2931574,1730-10-14,103
-44,Georg Philipp Telemann,11862119X,Rat der Stadt Hamburg,16032936-X,,,Hamburg,https://www.geonames.org/2911298,?,118
+44,Georg Philipp Telemann,11862119X,Rat der Stadt Hamburg,16032936-X,,,Hamburg,https://www.geonames.org/2911298,,118
 45,Georg Philipp Telemann,11862119X,Hof in Aurich (Ostfriesland),,Hamburg,https://www.geonames.org/2911298,Aurich,https://www.geonames.org/2954006,1728-01-04,120
 46,Georg Philipp Telemann,11862119X,Hof in Aurich (Ostfriesland),,Hamburg,https://www.geonames.org/2911298,Aurich,https://www.geonames.org/2954006,1728-11-11,121
 47,Georg Philipp Telemann,11862119X,Hof in Aurich (Ostfriesland),,Hamburg,https://www.geonames.org/2911298,Aurich,https://www.geonames.org/2954006,1728-12-03,122
@@ -116,7 +116,7 @@ key,sender,senderID,addressee,addresseeID,senderPlace,senderPlaceID,addresseePla
 111,Johann Adolph Scheibe,118754319,Georg Philipp Telemann,11862119X,Sonderburg auf Alsen,https://www.geonames.org/2613102,[Hamburg],https://www.geonames.org/2911298,1757-02-08,332
 112,Georg Andreas Sorge,126963665,Georg Philipp Telemann,11862119X,Lobenstein,https://www.geonames.org/287672,[Hamburg],https://www.geonames.org/2911298,1750-06-16,335
 113,Georg Andreas Sorge,126963665,Georg Philipp Telemann,11862119X,Lobenstein,https://www.geonames.org/287672,[Hamburg],https://www.geonames.org/2911298,1766-10-06,337
-114,Georg Andreas Sorge,126963665,Georg Philipp Telemann,11862119X,Lobenstein,https://www.geonames.org/287672,[Hamburg],https://www.geonames.org/2911298,3.Mai 1767 (29.April),340
+114,Georg Andreas Sorge,126963665,Georg Philipp Telemann,11862119X,Lobenstein,https://www.geonames.org/287672,[Hamburg],https://www.geonames.org/2911298,1767-05-03,340
 115,Georg Friedrich Händel,118544489,Georg Philipp Telemann,11862119X,London,https://www.geonames.org/2643743,[Hamburg],https://www.geonames.org/2911298,1750-12-14,342
 116,Georg Friedrich Händel,118544489,Georg Philipp Telemann,11862119X,London,https://www.geonames.org/2643743,[Hamburg],https://www.geonames.org/2911298,1754-09-20,345
 117,Johann Georg Pisendel,11946912X,Georg Philipp Telemann,11862119X,Dresden,https://www.geonames.org/2935022,[Hamburg],https://www.geonames.org/2911298,1749-04-16,347
